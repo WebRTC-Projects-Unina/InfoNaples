@@ -11,7 +11,6 @@ Table of Contents
     Pages Overview
     Technologies Used
     Setup Instructions
-    Author
 
 Features
 
