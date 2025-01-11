@@ -1,4 +1,5 @@
 "# InfoNaples" 
+
 Visit Naples - Web Application
 
 Welcome to Visit Naples, a comprehensive web application designed to guide users through the beauty, culture, and experiences Naples has to offer. This project includes interactive features such as reservations, meteorology updates, and a fun "Head or Tails" game, combining usability and entertainment.
